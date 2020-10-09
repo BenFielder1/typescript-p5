@@ -4,6 +4,8 @@ import { AbstractSketch } from "../useSketch";
 const WIDTH = 600;
 const HEIGHT = 400;
 
+// sir woz ere
+
 export default class Snake extends AbstractSketch<{}> {
     sketch = (s: p5) => {
         // This is how you do those 'global variables'
